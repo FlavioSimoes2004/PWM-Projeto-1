@@ -1,6 +1,6 @@
 header{
     text-align: center;
-    background-color: lightcoral;
+    background-color: #ffe591;
 }
 
 a:link, a:visited{
@@ -14,5 +14,6 @@ a:hover, a:active{
 }
 
 footer{
-    background-color: black;
+    background-color: #d6d1c1;
+    text-align: center;
 }

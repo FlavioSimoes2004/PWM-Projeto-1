@@ -7,7 +7,7 @@ h3{
 }
 
 form{
-    background-color: #F0F8FF;
+    background-color: #d0e5f7;
 }
 
 textarea{
@@ -16,4 +16,11 @@ textarea{
 
 #in_nome, #in_email, #in_mensagem{
     text-align: left;
+}
+
+#bt_enviar{
+    border:none;
+    background-color: #f0ee7f;
+    padding: 8px 16px;
+    cursor:pointer;
 }
