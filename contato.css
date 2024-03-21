@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+
+h3{
+    background-color: lightblue;
+}
+
+form{
+    background-color: #F0F8FF;
+}
+
+textarea{
+    resize: none;
+}
+
+#in_nome, #in_email, #in_mensagem{
+    text-align: left;
+}
