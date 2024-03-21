@@ -3,22 +3,16 @@ header{
     background-color: lightcoral;
 }
 
-a{
+a:link, a:visited{
+    color:blue;
     text-decoration: none;
 }
 
-a:link{
-    color:blue;
-}
-
-a:visited{
-    color:blue;
-}
-
-a:hover{
+a:hover, a:active{
     color: red;
+    text-decoration: underline;
 }
 
-a:active{
-    color:red;
+footer{
+    background-color: black;
 }
