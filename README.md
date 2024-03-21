@@ -13,3 +13,4 @@ ALUNO: Flávio Henrique Simões Brito
 - Uso de CSS
 - Inclusão de iframes
 - Legenda nas imagens
+- Inclusão de tags semânticas nas tabelas
