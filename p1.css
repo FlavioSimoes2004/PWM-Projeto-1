@@ -10,6 +10,10 @@ figcaption, img{
     text-align: center;
 }
 
+p{
+    text-align: justify;
+}
+
 #link{
     text-align: center;
 }
