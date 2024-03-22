@@ -17,3 +17,9 @@ footer{
     background-color: #d6d1c1;
     text-align: center;
 }
+
+iframe{
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
