@@ -3,29 +3,20 @@ h3{
     text-align: center;
 }
 
-figcaption, img{
+iframe{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
 }
 
 p{
     text-align: justify;
 }
 
-#link{
-    text-align: center;
-}
-
-a{
-    color: blue;
-    font-size: large;
-}
-
 table{
     margin-left: auto;
-    margin-right: auto  ;
+    margin-right: auto;
+    background-color: white;
 }
 
 thead{

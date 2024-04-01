@@ -1,10 +1,15 @@
+body{
+    background-color: #f1d2fa;
+}
+
 header{
     text-align: center;
-    background-color: #ffe591;
+    background-color: #6c34a3;
 }
 
 a:link, a:visited{
-    color:blue;
+    color: #00fa21;
+    font-weight: bold;
     text-decoration: none;
 }
 
@@ -14,7 +19,7 @@ a:hover, a:active{
 }
 
 footer{
-    background-color: #d6d1c1;
+    background-color: #6c34a3;
     text-align: center;
 }
 
