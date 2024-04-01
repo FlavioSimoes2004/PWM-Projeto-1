@@ -7,7 +7,7 @@ h3{
 }
 
 form{
-    background-color: #d0e5f7;
+    background-color: #ac7ade;
 }
 
 textarea{
@@ -23,4 +23,8 @@ textarea{
     background-color: #f0ee7f;
     padding: 8px 16px;
     cursor:pointer;
+}
+
+#bt_enviar:hover{
+    background-color: #e3e032;
 }
