@@ -22,10 +22,9 @@ footer{
     background-color: #6c34a3;
     display: block;
     text-align: center;
-    position: fixed;
+    position: sticky;
     width: 100vw;
-    height: 4vh;
-    bottom:15px;
+    bottom: 15px;
 }
 
 iframe{
