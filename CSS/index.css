@@ -8,13 +8,13 @@ header{
 }
 
 a:link, a:visited{
-    color: #00fa21;
+    color: rgb(255, 90, 0);
     font-weight: bold;
     text-decoration: none;
 }
 
 a:hover, a:active{
-    color: red;
+    color: rgb(255, 0, 170);
     text-decoration: underline;
 }
 
@@ -23,7 +23,6 @@ footer{
     display: block;
     text-align: center;
     position: sticky;
-    width: 100vw;
     bottom: 15px;
 }
 
